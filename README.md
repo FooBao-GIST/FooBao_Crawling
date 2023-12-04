@@ -3,6 +3,7 @@
 MacOS 환경에서 chromedriver를 실행하기 위해서는 chromdriver가 있는 디렉토리에서 다음 명령어를 먼저 입력해야 합니다.
 
 chmod +x chromedriver
+
 xattr -d com.apple.quarantine chromedriver
 
 이후 Crawling.ipynb를 실행하면 메뉴사진과 리뷰사진이 크롤링됩니다.
