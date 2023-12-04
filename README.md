@@ -1,6 +1,6 @@
 # FooBao_Crawling
 
-MacOS 환경에서 chromedriver를 실행하기 위해서는 chromdriver가 있는 디렉토리에서 다음 명령어를 먼저 입력해야 합니다.
+MacOS 환경에서 chromedriver를 실행하기 위해서는 chromedriver가 있는 디렉토리에서 다음 명령어를 먼저 입력해야 합니다.
 
     chmod +x chromedriver
 
